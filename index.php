@@ -4,7 +4,7 @@
 		<title>Neue-American Cuisine Specializr</title>
 	</head>
 	<body>
-		<p><strong>Update 3/14/16:</strong> The restaurant that I was using as a punching bag for this joke <a href="http://www.post-gazette.com/business/career-workplace/2016/03/12/North-Shores-bZ-Craft-Bar-Twisted-Eatery-sudden-closing-protested-Workers-say-they-are-owed-pay/stories/201603120012">closed unexpectedly</a>. The owners owe their former employees something to the tune of $44,000. Thankfully, the glory of the lunch menu will live on forever through this webpage.</a></p>
+		<p><strong>Update 3/14/16:</strong> The restaurant that I was using as a punching bag for this joke <a href="http://www.post-gazette.com/business/career-workplace/2016/03/12/North-Shores-bZ-Craft-Bar-Twisted-Eatery-sudden-closing-protested-Workers-say-they-are-owed-pay/stories/201603120012">closed unexpectedly</a>.</p>
 		<p>On special today at your new local bar and grille serving "twisted" American classics and craft cocktails:</p>
 		<h1><?php
 			$adjective = array(
